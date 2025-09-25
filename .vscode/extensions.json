@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "octref.vetur",
+    "angular.ng-template",
+    "dsznajder.es7-react-js-snippets",
+    "ecmel.vscode-html-css",
+    "ms-python.python",
+    "ms-dotnettools.csharp",
+    "ms-vscode.cpptools",
+    "ms-azuretools.vscode-docker",
+    "mongodb.mongodb-vscode",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "alefragnani.project-manager",
+    "ritwickdey.liveserver"
+  ]
+}
